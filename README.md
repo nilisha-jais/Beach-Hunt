@@ -4,7 +4,7 @@
   </a>
 
   <p align="center">
-    "The Beah Hunt"
+    "The Beach Hunt"
     <br /><br />
     <a href="https://youtu.be/2acCnshbTMc">Video Demo</a>
   </p>
